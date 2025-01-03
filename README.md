@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<a href="https://discord.com/users/862116871621050398">
-  <img align="left" alt="Clark's Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
-</a>
 <a href="https://twitter.com/MetaphorComplex">
   <img align="left" alt="Clark Brown | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Twitter_new.svg/640px-Twitter_new.svg.png" />
 </a>
@@ -17,6 +14,5 @@
 
 Hi, I'm [Clark Brown](https://clark-brown.com/):
 
-- 🏠 I’m a software engineer at [Neighbor](https://www.neighbor.com)
 - 🌱 I’m currently building [Grift](https://github.com/clarkedb/grift)
-- 💬 Ask me about testing frameworks
+- 💬 Ask me about random useless trivia
